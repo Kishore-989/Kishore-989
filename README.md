@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Kishore-989/Kishore-989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 ## 👋 Hi, I'm Kishore Angajala!<br><br>🚀 Aspiring Software Developer | Data Analyst | Generative AI & Agentic AI Enthusiast<br><br>I'm a passionate technology enthusiast and 2026 graduate interested in building real-world solutions using Python, SQL, Data Analytics, Machine Learning, and Generative AI.<br><br>💡 **What I'm Interested In**<br>- 🤖 Generative AI, LLMs & Agentic AI<br>- 📊 Data Analytics, Data Visualization & SQL<br>- 🐍 Python Programming & Problem Solving<br>- 🧠 Machine Learning & AI Applications<br>- 🔗 RAG, LangChain, LangGraph & AI Automation<br>- 💻 Software Development & Real-World Projects<br><br>🌱 **Currently Learning**<br>- Building end-to-end AI and Data Analytics projects.<br>- Developing AI-powered applications and intelligent agents.<br>- Strengthening Python, SQL, and problem-solving skills.<br><br>🎯 **My Goal**<br><br>To become a skilled AI/ML and Software Development professional by continuously learning, building practical projects, and contributing to real-world technology solutions.<br><br>📌 **Explore My Repositories:** You'll find my learning journey, hands-on projects, experiments, and practical implementations here.<br><br>🤝 Open to learning opportunities, collaborations, and entry-level opportunities in AI/ML, Generative AI, Data Analytics, and Software Development.<br><br>📫 **Connect With Me**<br>- GitHub: https://github.com/Kishore-989<br>- LinkedIn: https://www.linkedin.com/in/angajala-kishore
 
 
@@ -30,7 +19,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=Kishore-989&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
